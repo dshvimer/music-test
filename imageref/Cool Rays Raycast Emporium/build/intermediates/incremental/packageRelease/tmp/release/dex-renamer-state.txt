@@ -1,0 +1,4 @@
+#Wed Apr 17 14:57:09 EDT 2019
+base.0=/Users/david/dev/Test2Cube/imageref/Cool Rays Raycast Emporium/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
